@@ -7,4 +7,4 @@ Przedmiot był realizowany na 2. semestrze kierunku Informatyka na AGH.
 - Programowanie dynamiczne
 - Grafy
 
-  Repozytorium zawiera różne zadania wykonane podczas semestru, w tym dodatkowo egzaminy wakacyjne przygotowane przez kolegów z roku.
+Repozytorium zawiera różne zadania wykonane podczas semestru, w tym dodatkowo egzaminy wakacyjne przygotowane przez kolegów z roku.
